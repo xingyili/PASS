@@ -6,6 +6,7 @@ This program includes Matlab scripts and several datasets for demo of PASS appro
 (1）PASS_main.m is the main script to call PASS.
 
 (2) There are some Matlab scripts for each step of PASS analysis, and called in PASS_main.m
+
     1. CalAUCPathNode.m
     
     2. CalAUCPath.m
@@ -15,6 +16,7 @@ This program includes Matlab scripts and several datasets for demo of PASS appro
     4. Perturbed_network_construction.m
     
 (3) The input datasets include:  
+
     1. Genes_expression_data.mat
     
     2. The folder named Pathway_data contains 50 pathways for demo of PASS.
